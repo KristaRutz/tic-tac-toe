@@ -1,12 +1,12 @@
 # _Tic Tac Toe_
 
-#### _{Brief description of application}, 01.30.2020_
+#### _A 2 player tic-tac-toe web-based game application, 01.30.2020_
 
 #### By _**Tiffany Siu and Krista Rutz**_
 
 ## Description
 
-_{This is a detailed description of your application. Its purpose and usage.  Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. }_
+_Play tic tac toe against another person! Get three X's or O's in a row to win!_
 
 ## Setup/Installation Requirements
 
