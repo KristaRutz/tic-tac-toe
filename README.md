@@ -10,16 +10,20 @@ _{This is a detailed description of your application. Its purpose and usage.  Gi
 
 ## Setup/Installation Requirements
 
-* _This is a great place_
-* _to list setup instructions_
-* _in a simple_
-* _easy-to-understand_
-* _format_
+To view this project:
 
-_{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? How should I set up my databases? Is there other code this app depends on?}_
+* _Open the [GitHub pages](https://kristarutz.github.io/tic-tac-toe/) link to view the deployed project_
+
+or, you can download it and run from a local computer without internet:
+
+* _Download and unzip the ZIP file of this repository_
+* _Open the downloaded folder "tic-tac-toe"_
+* _Double-click the index.html file to open in a browser_
 
 ## Specifications
 
+<details>
+  <summary>Expand specs for this project</summary>
 * When players hit "Play" button, new game is created and board drawn
   * Example Input: click "Play"
   * Example Output: empty board appears with 9 spaces made with 3 spaces per row
@@ -49,22 +53,38 @@ _{Leave nothing to chance! You want it to be easy for potential users, employers
   * Example Output: show "Play" button to start again
 * If all spots filled and no winner found, show game over screen with "It's a cat's game! You've tied!"
   * Example Input: 9 turns and no winner
-  * Example Output: show game over screen and indicate a tie
+  * Example Output: show game over screen and indicate a tie                                                            
+</details>                                                           
 
 ## Known Bugs
 
-_There are currently no known bugs in this program_
+No known bugs. Some links are currently disabled while the website is in beta.
 
 ## Support and contact details
 
-_{Let people know what to do if they run into any issues or have questions, ideas or concerns.  Encourage them to contact you or make a contribution to the code.}_
+Please contact me if you run into any issues or have questions, ideas or concerns.  I can be contacted at <krista.rutz@pomona.edu>. _Contributions to the code are encouraged!_
 
 ## Technologies Used
 
-_{Tell me about the languages and tools you used to create this app. Assume that I know you probably used HTML and CSS. If you did something really cool using only HTML, point that out.}_
+* HTML, CSS, and JS (jQuery)
+* Responsive design using Bootstrap framework
 
 ### License
 
-*This software is licensed under the MIT license*
+*This software is licensed under the Attribution-NonCommercial 4.0 International [(CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/legalcode)*
 
 Copyright (c) 2020 **_Tiffany Siu, Krista Rutz_**
+
+##### You are free to:
+**Share** — copy and redistribute the material in any medium or format
+**Adapt** — remix, transform, and build upon the material
+_The licensor cannot revoke these freedoms as long as you follow the license terms._
+Under the following terms:
+**Attribution** — You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+
+**NonCommercial** — You may not use the material for commercial purposes.
+
+**No additional restrictions** — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
+_Notices:
+You do not have to comply with the license for elements of the material in the public domain or where your use is permitted by an applicable exception or limitation.
+No warranties are given. The license may not give you all of the permissions necessary for your intended use. For example, other rights such as publicity, privacy, or moral rights may limit how you use the material._
